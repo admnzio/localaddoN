@@ -85,7 +85,6 @@ def ConvertRTCtoTime(RTC) :
     print("Time is ",Hours,"/",Min,"/",Sec)
     Date = str (Year)+"/"+str (Month) + "/"+str (Day)
     Time = str (Hours)+"/"+str (Min) + "/"+str (Sec)
-    #return  Year, Month, Day, Hours, Min, Sec
     return  Date,Time
 def TempFun ( temp) :
     sign = ''
