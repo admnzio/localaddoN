@@ -1,5 +1,5 @@
 {
   "name": "localaddon",
-  "url": "http://www.example/addons",
+  "url": "http://www.database(1)/addons",
   "maintainer": "HomeAssistant Team <info@home-assistant.io>"
 }
